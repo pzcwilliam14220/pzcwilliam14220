@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm pzcwilliam14220
 
-<!--
-**pzcwilliam14220/pzcwilliam14220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 🎰 A nerd in cloud computing 🌟 🎰
 
-Here are some ideas to get you started:
+## About Me
+🎰 🛹 🏸 🎽 A keen learner of tech reviews 🎰 🛹 🏸 🎽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🥊 📚 A lover of startup culture 🥊 📚
+
+### Fun Facts
+🛼 🥁 🏏 Hacking on augmented reality 🛼 🥁 🏏
+
+---
+🎵 🏓 🛼 🎯 🎾 Thanks for visiting my profile! 🏄 🏸 🌺 🎮 🎱
